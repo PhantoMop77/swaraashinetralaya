@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "841287433054",
+    "project_id": "swaraashi-netralaya",
+    "storage_bucket": "swaraashi-netralaya.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841287433054:android:99953373aa6735dfa3adcf",
+        "android_client_info": {
+          "package_name": "com.swaraashi.swaraashiadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841287433054-btg142u1i79q7km21n4qrhtds5j0c7ia.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swaraashi.swaraashiadmin",
+            "certificate_hash": "3632090a6536d924a6c65af3407293f811ceac38"
+          }
+        },
+        {
+          "client_id": "841287433054-r3ie1m5gq85pff1tjisog4khq1tmi1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqeC5XR9GK0IG1AX1AOF--fPCsX1DxqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841287433054-r3ie1m5gq85pff1tjisog4khq1tmi1et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841287433054-4pmlp8r32hfqojdsej7quad7r1oj1po4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swaraashi.swaraashinetralaya"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841287433054:android:b09ad04cd572403fa3adcf",
+        "android_client_info": {
+          "package_name": "com.swaraashi.swaraashinetralaya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841287433054-9i95rstjg06kueaf4tn12te6pk01vo0g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swaraashi.swaraashinetralaya",
+            "certificate_hash": "b8549f909892bc5cb4f2144f592e624b956046e6"
+          }
+        },
+        {
+          "client_id": "841287433054-o0423v6md5j88ef095erg3llkt8sfmqu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swaraashi.swaraashinetralaya",
+            "certificate_hash": "748907f00ef9284e45260684b2b1ce44a70b9de2"
+          }
+        },
+        {
+          "client_id": "841287433054-r3ie1m5gq85pff1tjisog4khq1tmi1et.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjqeC5XR9GK0IG1AX1AOF--fPCsX1DxqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841287433054-r3ie1m5gq85pff1tjisog4khq1tmi1et.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "841287433054-4pmlp8r32hfqojdsej7quad7r1oj1po4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.swaraashi.swaraashinetralaya"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
