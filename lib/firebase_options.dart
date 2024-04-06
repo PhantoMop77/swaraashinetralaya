@@ -63,6 +63,8 @@ class DefaultFirebaseOptions {
     messagingSenderId: '841287433054',
     projectId: 'swaraashi-netralaya',
     storageBucket: 'swaraashi-netralaya.appspot.com',
+    androidClientId: '841287433054-9i95rstjg06kueaf4tn12te6pk01vo0g.apps.googleusercontent.com',
+    iosClientId: '841287433054-4pmlp8r32hfqojdsej7quad7r1oj1po4.apps.googleusercontent.com',
     iosBundleId: 'com.swaraashi.swaraashinetralaya',
   );
 }
