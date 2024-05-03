@@ -14,14 +14,6 @@
       },
       "oauth_client": [
         {
-          "client_id": "841287433054-btg142u1i79q7km21n4qrhtds5j0c7ia.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.swaraashi.swaraashiadmin",
-            "certificate_hash": "3632090a6536d924a6c65af3407293f811ceac38"
-          }
-        },
-        {
           "client_id": "116935558907549238893",
           "client_type": 3
         }
@@ -63,6 +55,22 @@
           "android_info": {
             "package_name": "com.swaraashi.swaraashinetralaya",
             "certificate_hash": "b8549f909892bc5cb4f2144f592e624b956046e6"
+          }
+        },
+        {
+          "client_id": "841287433054-mf2fma7ngehk6781o8dvjdu1ljumvtm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swaraashi.swaraashinetralaya",
+            "certificate_hash": "3632090a6536d924a6c65af3407293f811ceac38"
+          }
+        },
+        {
+          "client_id": "841287433054-qsr7o7t180rpdhdqlhd88mnqhn99re1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.swaraashi.swaraashinetralaya",
+            "certificate_hash": "748907f00ef9284e45260684b2b1ce44a70b9de2"
           }
         },
         {
